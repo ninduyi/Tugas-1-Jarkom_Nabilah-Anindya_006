@@ -1,6 +1,6 @@
 # Tugas-1-Jarkom_Nabilah-Anindya_006
 
-### IP PREFIX = 10.46.0.0/22
+### IP PREFIX = 10.46.0.0
 
 
 ## TOPOLOGI
