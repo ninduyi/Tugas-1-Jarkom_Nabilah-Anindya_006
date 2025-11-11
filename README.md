@@ -202,14 +202,58 @@
 | Available Host | 14 |
 | Range IP Tersedia | 10.46.4.1 – 10.46.4.14 |
 
-## Subnet A-series (/30)
-| Nama | NID | Broadcast | Range IP |
-|---|---|---|---|
-| A1 | 10.46.2.0 | 10.46.2.3 | 10.46.2.1 – 10.46.2.2 |
-| A2 | 10.46.8.0 | 10.46.8.3 | 10.46.8.1 – 10.46.8.2 |
-| A3 | 10.46.32.128 | 10.46.32.131 | 10.46.32.129 – 10.46.32.130 |
-| A4 | 10.46.34.0 | 10.46.34.3 | 10.46.34.1 – 10.46.34.2 |
-| A5 | 10.46.40.0 | 10.46.40.3 | 10.46.40.1 – 10.46.40.2 |
-| A6 | 10.46.16.32 | 10.46.16.35 | 10.46.16.33 – 10.46.16.34 |
+## A1
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.2.0 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.2.3 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.2.1 – 10.46.2.2 |
+
+## A2
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.8.0 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.8.3 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.8.1 – 10.46.8.2 |
+
+## A3
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.32.128 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.32.131 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.32.129 – 10.46.32.130 |
+
+## A4
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.34.0 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.34.3 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.34.1 – 10.46.34.2 |
+
+## A5
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.40.0 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.40.3 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.40.1 – 10.46.40.2 |
+
+## A6
+| Parameter | Nilai |
+|---|---|
+| Network ID (NID) | 10.46.16.32 |
+| Netmask | 255.255.255.252 |
+| Broadcast Address | 10.46.16.35 |
+| Host Tersedia | 2 |
+| Range IP | 10.46.16.33 – 10.46.16.34 |
 
 ---
