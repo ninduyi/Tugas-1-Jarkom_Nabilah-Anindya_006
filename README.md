@@ -49,7 +49,7 @@
 
 ## CIDR
 
-![](assets/cidr%20pohon.png)
+![](assets/cidr%20sub.png)
 
 ![](assets/cidr.png)
 
